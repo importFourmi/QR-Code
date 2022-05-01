@@ -16,11 +16,9 @@ Algorithme qui permet de générer le QR Code d'un site. Un image sur fond blanc
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    
     <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
-    
   </ol>
 </details>
 
