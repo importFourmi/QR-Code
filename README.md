@@ -68,6 +68,12 @@ Pour créer un QR Code du site [https://galagain.com/cv.pdf](https://galagain.co
 [license-url]: https://github.com/importFourmi/QR-Code/blob/master/LICENSE.txt
 [linkedin-url]: https://www.linkedin.com/in/calvin-galagain/
 
+[contributors-shield]: https://img.shields.io/github/contributors/importFourmi/QR-Code.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/importFourmi/QR-Code.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/importFourmi/QR-Code.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/importFourmi/QR-Code.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/importFourmi/QR-Code.svg?style=for-the-badge
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 
 <!-- MARKDOWN IMAGES -->
