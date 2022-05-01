@@ -48,10 +48,10 @@ Pour créer un QR Code du site [https://galagain.com/cv.pdf](https://galagain.co
 1. Lancer la fonction *create_qrcode()* avec l'URL en paramètre:
 ```create_qrcode("https://galagain.com/cv.pdf")```
 2. Récupérer les deux images générées:
-- *qr_code_transparent.png*
-![Image sur fond transparent][transparent-image]
-- *qr_code_white.png*
-![Image sur fond blanc][white-image]
+- *qr_code_transparent.png*:
+<img src="images/qr_code_transparent.png" alt="Logo" width="80" height="80">
+- *qr_code_white.png*:
+<img src="images/qr_code_white.png" alt="Logo" width="80" height="80">
 
 
 
