@@ -65,7 +65,7 @@ Pour créer un QR Code du site [https://galagain.com/cv.pdf](https://galagain.co
 [forks-url]: https://github.com/importFourmi/QR-Code/network/members
 [stars-url]: https://github.com/importFourmi/QR-Code/stargazers
 [issues-url]: https://github.com/importFourmi/QR-Code/issues
-[license-url]: https://github.com/importFourmi/QR-Code/blob/master/LICENSE.txt
+[license-url]: https://github.com/importFourmi/QR-Code/blob/master/LICENSE
 [linkedin-url]: https://www.linkedin.com/in/calvin-galagain/
 
 [contributors-shield]: https://img.shields.io/github/contributors/importFourmi/QR-Code.svg?style=for-the-badge
